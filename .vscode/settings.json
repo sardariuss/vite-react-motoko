@@ -2,5 +2,6 @@
   "workbench.startupEditor": "readme",
   "workbench.editorAssociations": {
     "README.md": "vscode.markdown.preview.editor"
-  }
+  },
+  "typescript.tsdk": "./node_modules/typescript/lib",
 }
